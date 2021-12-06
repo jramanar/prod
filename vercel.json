@@ -1,0 +1,9 @@
+{
+    "redirects": [
+      { 
+        "source": "/view-vercel",
+        "destination": "https://vercel.com", 
+        "permanent": true
+      }
+    ]
+}
